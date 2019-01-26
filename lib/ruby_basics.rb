@@ -19,7 +19,7 @@ def return_a_value(greeting="Nice")
   return greeting
 end
 
-def last_evaluated_value(value)
+def last_evaluated_value(value="expert")
   return value
 end
 
