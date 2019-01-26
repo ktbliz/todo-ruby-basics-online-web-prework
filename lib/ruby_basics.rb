@@ -4,7 +4,7 @@ end
 
 def assign_variable(value)
   variable = value
-  return value
+  return variable
 end
 
 def argue
