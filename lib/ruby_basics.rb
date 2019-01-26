@@ -19,8 +19,8 @@ def return_a_value(greeting)
   return greeting
 end
 
-def last_evaluated_value)
-  
+def last_evaluated_value(value)
+  return value
 end
 
 def pizza_party
